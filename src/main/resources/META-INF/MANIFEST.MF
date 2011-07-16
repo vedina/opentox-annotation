@@ -1,0 +1,2 @@
+Package: net.idea.opentox.annotation
+Package-Version: ${project.version}
