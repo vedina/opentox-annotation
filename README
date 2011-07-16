@@ -1,0 +1,5 @@
+Self documenting REST resources via annotation.
+
+The rest resource returns information about its functionality / parameters, formally defined , according to OpenTox-REST ontology 
+https://github.com/vedina/opentox-annotation/blob/master/src/main/resources/net/idea/opentox/annotation/owl/opentox-rest.owl
+This is configured with Java annotation.
